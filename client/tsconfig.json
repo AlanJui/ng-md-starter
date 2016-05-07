@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "module": "system",
+    "sourceMap": true
+  },
+  "exclude": [
+    "jspm_packages",
+    "typings"
+  ]
+}
